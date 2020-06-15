@@ -1,7 +1,7 @@
 ### Project title: ab-test modeling
 
 
-A/B test run by an e-commerce websitel.
+A/B test run by an e-commerce website.
 
 
 ### Project description
